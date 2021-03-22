@@ -1,0 +1,8 @@
+{
+  "files": [
+    "./hello.ts"
+  ], 
+  "compilerOptions": {
+    "outDir": "./dist"  
+  }
+}
